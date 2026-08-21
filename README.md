@@ -12,12 +12,12 @@ This repo is to help me keep it all straight, and give others ideas as well!
 
 `Splunk` `Ubuntu` `Proxmox VE` `bash`
 
-## Log
+## Folders
 
-Short entries live here inline. Longer writeups get their own file in
-[`/logs`](./logs) and are linked below.
+Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Aug 2026**
+- **[Aug 21]** [Garage Door](.multitudes/2026-08-21-garage-door.md)
 - **[Aug 17-20]** TCM Security SOC 101 Live Course, entry coming soon.
 - **[Aug 17] [Sisterhood of the Traveling Packets](./logs/2026-08-17-flare-ctf-writeup.md)** - Full writeup →
  
