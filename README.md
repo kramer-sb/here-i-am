@@ -30,7 +30,8 @@ using the template.
 ## Certifications & Learning
 <small>*Note: This section is a WIP. Please check my [Open-to-Work](https://www.linkedin.com/posts/brie-kramer_opentowork-cybersecurity-socanalyst-share-7495881160250634241-fKjv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADVwRABGuU7BR60jajr1_6OkNLhVX2XeIM) post on LinkedIn (as well as my [LinkedIn Profile](https://www.linkedin.com/in/brie-kramer/)) where you can learn more about what I've been working on in cybersecurity these past few years.*</small>
 
-- [ ] SOC 201, TCM Security - *in progress*
+- [ ] [Home Lab: Beginner Buildout](https://www.justhacking.com/course/home-lab-beginner-buildout/), Just Hacking Training - *in progress*
+- [ ] [SOC 201](https://tcm-sec.com/academy/security-operations-soc-201/), TCM Security - *in progress*
 - [ ] Practical SOC Analyst Associate Certification (PSAA), TCM Security - *planned Q3 2026*
 - [x] [GCCC: Implementing and Auditing CIS Controls](https://www.credly.com/badges/09759575-6ada-4104-bea5-a29b9a034830) -2026-04-14
 - [x] [GCIH: Hacker Tools, Techniques, and Incident Handling](https://www.credly.com/badges/e7647f12-ae55-410c-a5a7-5517899578a2) - 2025-11-17
