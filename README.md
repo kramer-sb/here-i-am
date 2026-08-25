@@ -16,6 +16,8 @@ I'm Brie, working on securing my first cybersecurity role. Currently focused on 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Aug 2026**
+- **[Aug 25]** 5 weeks with [Just Hacking Training](https://learn.justhacking.com/) diving deep into Script-Based Malware Analysis 
+- **[Aug 25]** [Antisyphon Training, Workshop: Job Hunt Like a Hacker - 2026 Edition](https://learning.antisyphontraining.com/courses/job-hunt-like-a-hacker-2026-edition) 
 - **[Aug 21]** [Garage Door Incident](.multitudes/2026-08-21-garage-door.md)
 - **[Aug 17-20]** TCM Security SOC 101 Live Course, entry coming soon.
 - **[Aug 17] [Sisterhood of the Traveling Packets](./logs/2026-08-17-flare-ctf-writeup.md)** - Full writeup
