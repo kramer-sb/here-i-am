@@ -11,11 +11,12 @@ I'm Brie, working on securing my first cybersecurity role. Currently focused on 
 
 `Splunk` `Ubuntu` `Proxmox VE` `bash`
 
-## Organization
+## Logs & Multitudes
 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Aug 2026**
+- **[Aug 31]** 4 days with [Antisyphon Training](https://learning.antisyphontraining.com/) SOC Core Skills in the Age of AI with John Strand.
 - **[Aug 25]** 5 weeks with [Just Hacking Training](https://learn.justhacking.com/) diving deep into [Script-Based Malware Analysis](./logs/2026-08-26-jht-script-based-malware-analysis.md) 
 - **[Aug 25]** [Antisyphon Training, Workshop: Job Hunt Like a Hacker - 2026 Edition](https://learning.antisyphontraining.com/courses/job-hunt-like-a-hacker-2026-edition) 
 - **[Aug 21]** [Garage Door Incident](.multitudes/2026-08-21-garage-door.md)
@@ -26,7 +27,7 @@ Short entries live here inline. Longer writeups get their own file in [`/logs`](
 Add new entries at the top of the current month. Start a new month
 heading (## Mon YYYY) as needed. For short entries, just write the
 date and a sentence or two. For longer ones, link to a file in /logs
-using the template.
+/multitudes using the template.
 -->
 
 ## Certifications & Learning
