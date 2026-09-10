@@ -6,6 +6,7 @@ writeups, and whatever else I'm digging into.
 ## About
 I'm Brie, working on securing my first cybersecurity role. Currently focused on SOC learning with TCM Security while also working on my home lab. This repo is to help me keep it all straight and to give others ideas on how they can format their porfolios. 
 
+More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6Qnj2) LinkedIn Post. Follow me and let's connect! 
 
 ## Skills / Tools I'm Working With Lately
 
