@@ -10,15 +10,16 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Lately
 
-`Splunk` `Ubuntu` `Proxmox VE` `bash`
+`Splunk` `Ubuntu` `Proxmox VE` `bash` `PowerShell` 
 
 ## Logs & Multitudes
 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Sept 2026**
+- **[Sept 14]** Fireside chat with the [WiCyS Indianapolis Affiliate](https://www.linkedin.com/company/wicys-indianapolis-affiliate/home/) on how to be a strong candidate for the security training scholarship 
 - **[Sept 1]** Added static IP addresses to home lab VMs & LXCs
-- **[Sept 1]** Continuing 4 days with [Antisyphon Training](https://learning.antisyphontraining.com/) SOC Core Skills in the Age of AI with John Strand.
+- **[Sept 1]** Continuing 4 days with [Antisyphon Training](https://learning.antisyphontraining.com/) SOC Core Skills in the Age of AI with John Strand
 
 **Aug 2026**
 - **[Aug 31]** 4 days with [Antisyphon Training](https://learning.antisyphontraining.com/) SOC Core Skills in the Age of AI with John Strand
