@@ -17,6 +17,10 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Sept 2026**
+- **[Sept 25]** In home lab: fresh Kali 2026.2 install landing on Python 3.14 with Kali's externally-managed-environment protection in place.
+- **[Sept 25]** Started Python Fundamentals with JHT and new [repo](https://github.com/kramer-sb/python-fun-for-cybersecurity)
+- **[Sept 24]** Finished Home Lab: Beginner Buildout!
+- **[Sept 14]** Finished SOC 201!
 - **[Sept 14]** Fireside chat with the [WiCyS Indianapolis Affiliate](https://www.linkedin.com/company/wicys-indianapolis-affiliate/home/) on how to be a strong candidate for the security training scholarship 
 - **[Sept 1]** Added static IP addresses to home lab VMs & LXCs
 - **[Sept 1]** Continuing 4 days with [Antisyphon Training](https://learning.antisyphontraining.com/) SOC Core Skills in the Age of AI with John Strand
@@ -39,9 +43,10 @@ date and a sentence or two. For longer ones, link to a file in /logs
 ## Certifications & Learning
 <small>*Note: This section is a WIP. Please check my [Open-to-Work](https://www.linkedin.com/posts/brie-kramer_opentowork-cybersecurity-socanalyst-share-7495881160250634241-fKjv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADVwRABGuU7BR60jajr1_6OkNLhVX2XeIM) post on LinkedIn (as well as my [LinkedIn Profile](https://www.linkedin.com/in/brie-kramer/)) where you can learn more about what I've been working on in cybersecurity these past few years.*</small>
 
-- [ ] [Home Lab: Beginner Buildout](https://www.justhacking.com/course/home-lab-beginner-buildout/), Just Hacking Training - *in progress*
-- [ ] [SOC 201](https://tcm-sec.com/academy/security-operations-soc-201/), TCM Security - *in progress*
 - [ ] Practical SOC Analyst Associate Certification (PSAA), TCM Security - *planned Q3 2026*
+- [ ] [Coding for Cybersecurity: Python Fundamentals](https://www.justhacking.com/course/coding-for-cybersecurity-python-fundamentals/), Just Hacking Training - *in progress*
+- [x] [Home Lab: Beginner Buildout](https://www.justhacking.com/course/home-lab-beginner-buildout/), Just Hacking Training - 2026-09-24
+- [x] [SOC 201](https://tcm-sec.com/academy/security-operations-soc-201/), TCM Security - 2026-09-14
 - [x] [GCCC: Implementing and Auditing CIS Controls](https://www.credly.com/badges/09759575-6ada-4104-bea5-a29b9a034830) -2026-04-14
 - [x] [GCIH: Hacker Tools, Techniques, and Incident Handling](https://www.credly.com/badges/e7647f12-ae55-410c-a5a7-5517899578a2) - 2025-11-17
 - [x] [GSEC: Security Essentials - Network, Endpoint, and Cloud](https://www.credly.com/earner/earned/badge/9fce36d6-dd67-4533-9523-530c02d4ae95) - 2025-07-03
