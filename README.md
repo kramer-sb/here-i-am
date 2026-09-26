@@ -19,7 +19,8 @@ Short entries live here inline. Longer writeups get their own file in [`/logs`](
 **Sept 2026**
 - **[Sept 25]** In home lab: fresh Kali 2026.2 install landing on Python 3.14 with Kali's externally-managed-environment protection in place.
 - **[Sept 25]** Started Python Fundamentals with JHT and new [repo](https://github.com/kramer-sb/python-fun-for-cybersecurity)
-- **[Sept 24]** Finished Home Lab: Beginner Buildout!
+- **[Sept 24]** Finished Home Lab: Beginner Buildout with JHT!
+- **[Sept 20]** Finished Script-Based Malware Analysis with JHT!
 - **[Sept 14]** Finished SOC 201!
 - **[Sept 14]** Fireside chat with the [WiCyS Indianapolis Affiliate](https://www.linkedin.com/company/wicys-indianapolis-affiliate/home/) on how to be a strong candidate for the security training scholarship 
 - **[Sept 1]** Added static IP addresses to home lab VMs & LXCs
