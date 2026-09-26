@@ -10,7 +10,7 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Lately
 
-`Splunk` `Ubuntu` `Proxmox VE` `bash` `PowerShell` 
+`Proxmox VE` `bash` `PowerShell` `gitea` `python`
 
 ## Logs & Multitudes
 
