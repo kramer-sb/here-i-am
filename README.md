@@ -10,13 +10,14 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Lately
 
-`Proxmox VE` `bash` `PowerShell` `gitea` `python`
+`Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion`
 
 ## Logs & Multitudes
 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Sept 2026**
+- **[Sept 28]** Created new [repo](https://github.com/kramer-sb/job-search) to help aid me (and you!) in my quest for my first cybersecurity role. 
 - **[Sept 25]** In home lab: fresh Kali 2026.2 install landing on Python 3.14 with Kali's externally-managed-environment protection in place.
 - **[Sept 25]** Started Python Fundamentals with JHT and new [repo](https://github.com/kramer-sb/python-fun-for-cybersecurity)
 - **[Sept 24]** Finished Home Lab: Beginner Buildout with JHT!
