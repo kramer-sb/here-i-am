@@ -10,13 +10,14 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Lately
 
-`Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion`
+`Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion` `InTune` `EntraID`
 
 ## Logs & Multitudes
 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Oct 2026**
+- **[Oct 10-11]** In home lab: built a Windows 11 VM on Proxmox and enrolled it in Microsoft Intune, with a compliance policy and BitLocker. [Full writeup](./logs/2026-10-11-windows-endpoint-lab.md) and a new repo, [windows-endpoint-lab](https://github.com/kramer-sb/windows-endpoint-lab)
 - **[Oct 1]** October is Cybersecurity Awareness month, and I'm sharing one post per day on the topic, as well as at least one link per day, on LinkedIn. I'm saving those links to my start.me page [here](https://start.me/p/epKNnD/cyber-tools-apps-docs).
 
 **Sept 2026**
