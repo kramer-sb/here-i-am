@@ -8,7 +8,7 @@ I'm Brie, working on securing my first cybersecurity role. Currently focused on 
 
 More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6Qnj2) LinkedIn Post. Follow me and let's connect! 
 
-## Skills / Tools I'm Working With Lately
+## Skills / Tools I'm Working With Q4 2026
 
 `Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion` `InTune` `EntraID`
 
