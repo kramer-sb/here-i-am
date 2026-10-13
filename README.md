@@ -17,13 +17,14 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Oct 2026**
-- **[Oct 10-11]** In home lab: built a Windows 11 VM on Proxmox and enrolled it in Microsoft Intune, with a compliance policy and BitLocker. [Full writeup](./logs/2026-10-11-windows-endpoint-lab.md) and a new repo, [windows-endpoint-lab](https://github.com/kramer-sb/windows-endpoint-lab)
-- **[Oct 1]** October is Cybersecurity Awareness month, and I'm sharing one post per day on the topic, as well as at least one link per day, on LinkedIn. I'm saving those links to my start.me page [here](https://start.me/p/epKNnD/cyber-tools-apps-docs).
+- **[Oct 13]** Built a [website](https://briekramer.dev) utilizing the domain I've owned since 2019. 
+- **[Oct 10-11]** In home lab: built a Windows 11 VM on Proxmox and enrolled it in Microsoft Intune, with a compliance policy and BitLocker. [Full writeup](./logs/2026-10-11-windows-endpoint-lab.md) and a new repo, [windows-endpoint-lab](https://github.com/kramer-sb/windows-endpoint-lab).
+- **[Oct 1]** October is Cybersecurity Awareness month, and I'm sharing one post per day on the topic, as well as at least one link per day, on LinkedIn. I'm saving those links to my start[.]me page [here](https://start.me/p/epKNnD/cyber-tools-apps-docs).
 
 **Sept 2026**
 - **[Sept 30]** Created new private repo and little [website](https://the-queen-brie.vercel.app/) using Claude, through a little webinar with [Ruben Hassid's](https://ruben.substack.com/) How-to-ai. (You can send a message & I'll be notified via email!) 
 - **[Sept 28]** Created new [repo](https://github.com/kramer-sb/job-search) to help aid me (and you!) in my quest for my first cybersecurity role.
-- **[Sept 27]** In home lab: fresh Security Onion instal.
+- **[Sept 27]** In home lab: fresh Security Onion install.
 - **[Sept 25]** In home lab: fresh Kali 2026.2 install landing on Python 3.14 with Kali's externally-managed-environment protection in place.
 - **[Sept 25]** Started Python Fundamentals with JHT and new [repo](https://github.com/kramer-sb/python-fun-for-cybersecurity)
 - **[Sept 24]** Finished Home Lab: Beginner Buildout with JHT!
