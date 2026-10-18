@@ -10,7 +10,7 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Q4 2026
 
-`Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion` `InTune` `EntraID`
+`Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion` `InTune` `EntraID` `wazuh` `uptime kuma`
 
 ## Logs & Multitudes
 
