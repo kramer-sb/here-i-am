@@ -10,13 +10,14 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Q4 2026
 
-`Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion` `InTune` `EntraID` `wazuh` `uptime kuma`
+`Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion` `InTune` `EntraID` `wazuh` `uptime kuma` `Windows Server 2025` `AD` `pentesting` `dorkbot` `gobuster` `Burp Suite` `exiftool`
 
 ## Logs & Multitudes
 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Oct 2026**
+- **[Oct 20]** Beginning 5 weeks of [Just Hacking Training](https://learn.justhacking.com/) diving deep into Web App - Jr Analyst course with ~600 of my WiCyS besties. 
 - **[Oct 18]** Created new repo [windows-server-ad-lab](https://github.com/kramer-sb/windows-server-ad-lab) so I can practice AD tasks.
 - **[Oct 14]** Started working with Wazuh in Ubuntu Server VM and with Win11 VM in Proxmox
 - **[Oct 13]** Built a [website](https://briekramer.dev) utilizing the domain I've owned since 2019. 
