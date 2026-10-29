@@ -17,6 +17,7 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Oct 2026**
+- **[Oct 29]** Added .ico file to my website! Spiffy! 
 - **[Oct 20]** Beginning 5 weeks of [Just Hacking Training](https://learn.justhacking.com/) diving deep into Web App - Jr Analyst course with ~600 of my WiCyS besties. 
 - **[Oct 18]** Created new repo [windows-server-ad-lab](https://github.com/kramer-sb/windows-server-ad-lab) so I can practice AD tasks.
 - **[Oct 14]** Started working with Wazuh in Ubuntu Server VM and with Win11 VM in Proxmox
