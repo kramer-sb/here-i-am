@@ -10,13 +10,14 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Q4 2026
 
-`Proxmox VE` `bash` `PowerShell` `gitea` `python` `security onion` `InTune` `EntraID` `wazuh` `uptime kuma` `Windows Server 2025` `AD` `pentesting` `dorkbot` `gobuster` `Burp Suite` `exiftool`
+`Proxmox VE` `bash` `PowerShell` `gitea` `python` `InTune` `EntraID` `wazuh` `uptime kuma` `Windows Server 2025` `AD` `pentesting` `dorkbot` `gobuster` `Burp Suite` `exiftool` `curl`
 
 ## Logs & Multitudes
 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Oct 2026**
+- **[Oct 31]** Finished [Just Hacking Training](https://learn.justhacking.com/) Web App - Jr Analyst course. Writeup will come after the cohort ends in 4 weeks so I don't give anything away! **Excellent** experience! 
 - **[Oct 29]** Added .ico file to my website! Spiffy! 
 - **[Oct 20]** Beginning 5 weeks of [Just Hacking Training](https://learn.justhacking.com/) diving deep into Web App - Jr Analyst course with ~600 of my WiCyS besties. 
 - **[Oct 18]** Created new repo [windows-server-ad-lab](https://github.com/kramer-sb/windows-server-ad-lab) so I can practice AD tasks.
