@@ -16,9 +16,11 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
-**Oct 2026**
+**Nov 2026**
 - **[Nov 1]** Created a Stalwart container to host my own email. More info as it happens! 
-- **[Oct 31]** Finished [Just Hacking Training](https://learn.justhacking.com/) Web App - Jr Analyst course. Writeup will come after the cohort ends in 4 weeks so I don't give anything away! **Excellent** experience! 
+
+**Oct 2026**
+- **[Oct 31]** Finished [Web App - Jr Analyst](https://www.justhacking.com/course/web-app-pentesting-jr-analyst/) course with Just Hacking Trining. Writeup will come after the cohort ends in 4 weeks so I don't give anything away! **Excellent** experience! 
 - **[Oct 29]** Added .ico file to my website! Spiffy! 
 - **[Oct 20]** Beginning 5 weeks of [Just Hacking Training](https://learn.justhacking.com/) diving deep into Web App - Jr Analyst course with ~600 of my WiCyS besties. 
 - **[Oct 18]** Created new repo [windows-server-ad-lab](https://github.com/kramer-sb/windows-server-ad-lab) so I can practice AD tasks.
