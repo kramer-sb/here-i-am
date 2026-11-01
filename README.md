@@ -10,13 +10,14 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Q4 2026
 
-`Proxmox VE` `bash` `PowerShell` `gitea` `python` `InTune` `EntraID` `wazuh` `uptime kuma` `Windows Server 2025` `AD` `pentesting` `dorkbot` `gobuster` `Burp Suite` `exiftool` `curl`
+`Proxmox VE` `bash` `PowerShell` `gitea` `python` `InTune` `EntraID` `wazuh` `uptime kuma` `Windows Server 2025` `AD` `pentesting` `dorkbot` `gobuster` `Burp Suite` `exiftool` `curl` `stalwart`
 
 ## Logs & Multitudes
 
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Oct 2026**
+- **[Nov 1]** Created a Stalwart container to host my own email. More info as it happens! 
 - **[Oct 31]** Finished [Just Hacking Training](https://learn.justhacking.com/) Web App - Jr Analyst course. Writeup will come after the cohort ends in 4 weeks so I don't give anything away! **Excellent** experience! 
 - **[Oct 29]** Added .ico file to my website! Spiffy! 
 - **[Oct 20]** Beginning 5 weeks of [Just Hacking Training](https://learn.justhacking.com/) diving deep into Web App - Jr Analyst course with ~600 of my WiCyS besties. 
@@ -57,8 +58,9 @@ date and a sentence or two. For longer ones, link to a file in /logs
 ## Certifications & Learning
 <small>*Note: This section is a WIP. Please check my [Open-to-Work](https://www.linkedin.com/posts/brie-kramer_opentowork-cybersecurity-socanalyst-share-7495881160250634241-fKjv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADVwRABGuU7BR60jajr1_6OkNLhVX2XeIM) post on LinkedIn (as well as my [LinkedIn Profile](https://www.linkedin.com/in/brie-kramer/)) where you can learn more about what I've been working on in cybersecurity these past few years.*</small>
 
-- [ ] Practical SOC Analyst Associate Certification (PSAA), TCM Security - *planned Q3 2026*
+- [ ] Practical SOC Analyst Associate Certification (PSAA), TCM Security - *planned Q4 2026*
 - [ ] [Coding for Cybersecurity: Python Fundamentals](https://www.justhacking.com/course/coding-for-cybersecurity-python-fundamentals/), Just Hacking Training - *in progress*
+- [x] [Web App Pentesting - Jr Analyst](https://www.justhacking.com/course/web-app-pentesting-jr-analyst/), Just Hacking Training - 2026-10-31
 - [x] [Home Lab: Beginner Buildout](https://www.justhacking.com/course/home-lab-beginner-buildout/), Just Hacking Training - 2026-09-24
 - [x] [SOC 201](https://tcm-sec.com/academy/security-operations-soc-201/), TCM Security - 2026-09-14
 - [x] [GCCC: Implementing and Auditing CIS Controls](https://www.credly.com/badges/09759575-6ada-4104-bea5-a29b9a034830) -2026-04-14
