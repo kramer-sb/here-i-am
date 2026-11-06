@@ -17,6 +17,8 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Nov 2026**
+- **[Nov 6]** Added a script & service to auto-update Kali. I'm terrible at running these commands myself.  
+
 - **[Nov 1]** Created a Stalwart container to host my own email. More info as it happens! 
 
 **Oct 2026**
