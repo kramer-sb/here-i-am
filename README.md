@@ -4,7 +4,7 @@ A running log of what I'm doing in cybersecurity: CTFs, labs, research,
 writeups, and whatever else I'm digging into.
 
 ## About
-I'm Brie, working on securing my first cybersecurity role. Currently focused on SOC learning with TCM Security while also working on my home lab. This repo is to help me keep it all straight and to give others ideas on how they can format their porfolios. 
+I'm Brie, working on securing my first cybersecurity role. This repo is to help me keep what I'm doing straight and to give others ideas on how they can format their porfolios. 
 
 More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6Qnj2) LinkedIn Post. Follow me and let's connect! 
 
@@ -17,7 +17,7 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Nov 2026**
-- **[Nov 6]** Added a script & service to auto-update Kali. I'm terrible at running these commands myself.  
+- **[Nov 6]** Added a script & service to auto-update Kali. I'm terrible at running these commands myself. [Full writeup](.\logs\2026-11-06-kali-auto-update.md)
 
 - **[Nov 1]** Created a Stalwart container to host my own email. More info as it happens! 
 
@@ -50,7 +50,7 @@ Short entries live here inline. Longer writeups get their own file in [`/logs`](
 - **[Aug 25]** [Antisyphon Training, Workshop: Job Hunt Like a Hacker - 2026 Edition](https://learning.antisyphontraining.com/courses/job-hunt-like-a-hacker-2026-edition) 
 - **[Aug 21]** [Garage Door Incident](.multitudes/2026-08-21-garage-door.md)
 - **[Aug 17-20]** TCM Security SOC 101 Live Course
-- **[Aug 17] [Sisterhood of the Traveling Packets](./logs/2026-08-17-flare-ctf-writeup.md)** - Full writeup
+- **[Aug 17] [Sisterhood of the Traveling Packets](.logs/2026-08-17-flare-ctf-writeup.md)** - Full writeup
  
 <!--
 Add new entries at the top of the current month. Start a new month
