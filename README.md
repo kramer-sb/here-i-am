@@ -17,7 +17,7 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Nov 2026**
-- **[Nov 6]** Added a script & service to auto-update Kali. I'm terrible at running these commands myself. [Full writeup](.\logs\2026-11-06-kali-auto-update.md)
+- **[Nov 6]** Added a script & service to auto-update Kali. I'm terrible at running these commands myself. [Full writeup](./logs/2026-11-06-kali-auto-update.md)
 
 - **[Nov 1]** Created a Stalwart container to host my own email. More info as it happens! 
 
@@ -48,9 +48,9 @@ Short entries live here inline. Longer writeups get their own file in [`/logs`](
 - **[Aug 31]** 4 days with [Antisyphon Training](https://learning.antisyphontraining.com/) SOC Core Skills in the Age of AI with John Strand
 - **[Aug 25]** 5 weeks with [Just Hacking Training](https://learn.justhacking.com/) diving deep into [Script-Based Malware Analysis](./logs/2026-08-26-jht-script-based-malware-analysis.md)
 - **[Aug 25]** [Antisyphon Training, Workshop: Job Hunt Like a Hacker - 2026 Edition](https://learning.antisyphontraining.com/courses/job-hunt-like-a-hacker-2026-edition) 
-- **[Aug 21]** [Garage Door Incident](multitudes\2026-08-21-garage-door.md)
+- **[Aug 21]** [Garage Door Incident](./multitudes/2026-08-21-garage-door.md)
 - **[Aug 17-20]** TCM Security SOC 101 Live Course
-- **[Aug 17] [Sisterhood of the Traveling Packets](.logs/2026-08-17-flare-ctf-writeup.md)** - Full writeup
+- **[Aug 17] [Sisterhood of the Traveling Packets](./logs/2026-08-17-flare-ctf-writeup.md)** - Full writeup
  
 <!--
 Add new entries at the top of the current month. Start a new month
