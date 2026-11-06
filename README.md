@@ -10,7 +10,8 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 
 ## Skills / Tools I'm Working With Q4 2026
 
-`Proxmox VE` `bash` `PowerShell` `gitea` `python` `InTune` `EntraID` `wazuh` `uptime kuma` `Windows Server 2025` `AD` `pentesting` `dorkbot` `gobuster` `Burp Suite` `exiftool` `curl` `stalwart`
+![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white) ![Windows Server 2025](https://img.shields.io/badge/Windows_Server_2025-0078D4?style=flat-square) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square) ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square) ![Wazuh](https://img.shields.io/badge/Wazuh-1B998B?style=flat-square) ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-1B998B?style=flat-square) ![Security Onion](https://img.shields.io/badge/Security_Onion-1B998B?style=flat-square) ![Pentesting](https://img.shields.io/badge/Pentesting-C0392B?style=flat-square) ![Dorkbot](https://img.shields.io/badge/Dorkbot-C0392B?style=flat-square) ![Gobuster](https://img.shields.io/badge/Gobuster-C0392B?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square) ![ExifTool](https://img.shields.io/badge/ExifTool-6E7781?style=flat-square) ![curl](https://img.shields.io/badge/curl-6E7781?style=flat-square) ![Stalwart](https://img.shields.io/badge/Stalwart-2DA44E?style=flat-square)
+
 
 ## Logs & Multitudes
 
