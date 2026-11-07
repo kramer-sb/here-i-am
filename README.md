@@ -21,8 +21,8 @@ Short entries live here inline. Longer writeups get their own file in [`/logs`](
 
 **Nov 2026**
 - **[Nov 6]** Added a script & service to auto-update Kali. I'm terrible at running these commands myself. [Full writeup](./logs/2026-11-06-kali-auto-update.md)
-
-- **[Nov 1]** Created a Stalwart container to host my own email. More info as it happens! 
+- **[Nov 3]** Began free course from HackRange, [Specializing in Linux](https://www.hackrange.com/learn/courses/specializing-in-linux-course.html). Unreservedly recommend! 
+- **[Nov 1]** Created a Stalwart container to host my own email.
 
 **Oct 2026**
 - **[Oct 31]** Finished [Web App - Jr Analyst](https://www.justhacking.com/course/web-app-pentesting-jr-analyst/) course with Just Hacking Trining. Writeup will come after the cohort ends in 4 weeks so I don't give anything away! **Excellent** experience! 
