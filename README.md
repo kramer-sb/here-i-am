@@ -20,7 +20,7 @@ More about me and what I'm looking for in my [OpenToWork](https://lnkd.in/p/gjm6
 Short entries live here inline. Longer writeups get their own file in [`/logs`](./logs) and are linked below. Anything that isn't tech-ish lives in [`/multitudes`](./multitudes/) (because we all contain them) and are linked as appropriate.
 
 **Nov 2026**
-- **[Nov 18] [Specializing in Linux](./logs/2026-11-18-specializing-in-linux.md)** - Ongoing writeup
+- **[Nov 18]** [Specializing in Linux](./logs/2026-11-18-specializing-in-linux.md) - Ongoing writeup
 - **[Nov 11]** Working through SANS & ACTNow Ed Veterans Day CTF. It is the Fight Club of CTFs so there will be no writeup! #IYKYK
 - **[Nov 7]** Started Splunk's [free training](https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/guestapp/catalog/browse/categ000000000003041). I'm not busy enough lol. #CantStopWontStop
 - **[Nov 6]** Added a script & service to auto-update Kali. I'm terrible at running these commands myself. [Full writeup](./logs/2026-11-06-kali-auto-update.md)
