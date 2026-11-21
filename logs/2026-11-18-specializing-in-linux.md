@@ -27,5 +27,7 @@ Listing & navigating, creating & removing, copying & moving & renaming
 ### Viewing and Editing Files, Lessons 26-29
 Reading files, looking inside them, edit with nano, dabble in vim
 - make a copy first of any important file before you edit it: `cp /etc/ssh/ssh_config /etc/ssh/ssh_config.bak`
-- `vimtutor` to learn how to use vim confidently
+- examine before you trust; extensions lie; `file` does not and it, with `strings` and `xxd`, are free to look
+- `nano` is easy but not always installed
+- `vimtutor` to learn how to use vim confidently; is installed by default
 
