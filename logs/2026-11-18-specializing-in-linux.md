@@ -15,17 +15,17 @@ Terminal, shell, console, tty, bash & besties, anatomy of a command, help, etc.
 
 ### The Linux File System, Lessons 17-20
 Filesystem hierarchy, absolute paths, cd, hidden files, etc.
-- pwd - use this to make sure you are where you think you are! 
+- `pwd` - use this to make sure you are where you think you are! 
 - tab key. It really works. Use it!
 
 ### Working with Files and Directories, Lessons 21-25
 Listing & navigating, creating & removing, copying & moving & renaming
-- ls -lah - How I live now!
-- tree
-- ls before you delete & pwd
+- `ls -lah` - How I live now!
+- `tree`
+- `ls` before you delete & `pwd` to make sure you know where you are
 
 ### Viewing and Editing Files, Lessons 26-29
 Reading files, looking inside them, edit with nano, dabble in vim
-- make a copy first of any important file before you edit it: cp /etc/ssh/ssh_config /etc/ssh/ssh_config.bak
-- use vimtutor to learn how to use vim confidently
+- make a copy first of any important file before you edit it: `cp /etc/ssh/ssh_config /etc/ssh/ssh_config.bak`
+- `vimtutor` to learn how to use vim confidently
 
